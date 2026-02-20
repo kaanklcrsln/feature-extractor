@@ -7,7 +7,7 @@ A C++ implementation of the Laplacian edge detection filter compiled as a shared
 
 ```
 .
-├── laplacian.cpp           # C++ source with Laplacian filter implementation
+├── laplacian.cpp           # C source with Laplacian filter implementation
 ├── liblaplacian.dylib      # Compiled shared library (macOS)
 ├── laplacian_wrapper.py    # Python wrapper using ctypes
 └── image-ex.jpg            # Example image for testing
